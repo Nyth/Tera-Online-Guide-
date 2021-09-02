@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Operators</title>
+    <link rel="stylesheet" href="../css/style_operators.css">
+    <link rel="icon" href="">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
+		<link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Economica|Khand|Quicksand|Special+Elite" rel="stylesheet">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <script type="text/javascript" src="../jScript/scrollup.js"></script>
+
+
+  </head>
+  <body>
+    <div id="wrapper">
+
+      <div id="menu-bar">
+        <div id="nav">
+          <ul>
+            <a href="index.html">  <img src="../img/logo_2.jpg" alt="logo">  </a>
+
+            <li> <a href="aboutus.html">  About us  </a> </li>
+            <li> <a href="weapons.html">  Weapons  </a> </li>
+            <li> <a href="multiplayer.html">  Multiplayer  </a> </li>
+            <li> <div class="dropdown">
+              <button class="dropbtn"><a href="modes.html">Modes</a>
+                <i class="fa fa-caret-down"></i>
+                    </button>
+                    <div class="dropdown-content">
+                      <a href="bomb.html">proxy</a>
+                      <a href="hostage.html">country</a>
+
+                    </div>
+                  </div>
+            <li> <a href="maps.html">  Maps  </a> </li>
+            <li> <a href="operators.html">  Classes  </a> </li>
+          </ul>
+        </div>
+      </div>
